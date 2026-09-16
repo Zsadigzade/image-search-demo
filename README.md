@@ -12,4 +12,4 @@ from Hugging Face, ~127 MB) and ranked by exact cosine against 5,000 precomputed
 vectors. Its rankings were measured against the PyTorch model the published figures
 come from: identical top result on 318/318 benchmark phrases.
 
-Built from source commit fa0fb0b.
+Built from source commit 1838308.
